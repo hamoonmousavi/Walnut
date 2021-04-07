@@ -13,3 +13,6 @@ hs_err_pid*
 
 # Result files
 Result/
+
+# Mac crap
+.DS_Store
